@@ -1,0 +1,79 @@
+week:
+    monday:
+        name: MONDAY
+        exo:
+            -
+                - Pistol sqat
+                - 4 x 10
+            -
+                - Molet
+                - 2 x 30
+            -
+                - Avant bras
+                - 4 x 12
+            -
+                - Push up
+                - 4 x 10
+            -
+                - Rowing
+                - 3 x 12
+
+    tuesday:
+        name: TUESDAY
+        exo:
+            -
+                - Abdo
+                - 1 x 900s
+            -
+                - Pull up
+                - 3 x max
+            -
+                - Trapèze
+                - 3 x 8
+            -
+                - Épaule coté
+                - 4 x 10
+            -
+                - Rotation Russe
+                - 3 x 15
+
+                
+    webnesday:
+        name: WEDNESDAY
+        exo: false
+
+    thursday:
+        name: THURSDAY
+        exo:
+            -
+                - Fente sautée
+                - 3 x 30s
+            -
+                - Pistol Sqat
+                - 4 x 10
+            -
+                - Push up
+                - 4 x 10
+            -
+                - Épaule cotée
+                - 3 x 12
+
+
+    friday:
+        name: FRIDAY
+        exo:
+            -
+                - Superman
+                - 3 x 30s
+            -
+                - Abdo
+                - 1 x 900s
+            -
+                - Curl marteau
+                - 4 x 12
+            -
+                - Dips
+                - 4 x 15
+            -
+                - Rotation Russe
+                - 3 x 15

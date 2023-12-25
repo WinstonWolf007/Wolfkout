@@ -1,0 +1,114 @@
+sub {
+    color: #38464F;
+    font-family: Lilita One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+h1 {
+    font-family: Lilita One;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    top: 80px;
+
+}
+
+.relaxDay {
+    color: #CE82FF;
+}
+
+.workoutDay {
+    color: #FF9600;
+}
+
+h2 {
+    color: #51646B;
+    font-family: Lilita One;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+button {
+    width: 235px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 9px;
+    border-top: 1px solid #47A302;
+    border-right: 1px solid #47A302;
+    border-bottom: 5px solid #47A302;
+    border-left: 1px solid #47A302;
+    background: #57CC02;
+    color: #FFF;
+    font-family: Lilita One;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+    position: relative;
+    top: 240px;
+    cursor: pointer;
+}
+
+button:active {
+    border-bottom: 1px solid #47A302;
+    transform: translateY(4px);
+}
+
+p {
+    cursor: pointer;
+    color: #38464F;
+    font-family: Lilita One;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    top: 240px;
+}
+
+.icon {
+    cursor: pointer;
+    position: relative;
+    top: 18px;
+    width: 40px;
+    height: 40px;
+}
+
+.icon:nth-child(2) {
+    left: 80px;
+}
+
+.icon:nth-child(3) {
+    left: 150px;
+}
+
+body {
+    user-select: none;
+    margin: 0;
+    padding: 0;
+    background-color: #141F25;
+}
+
+
+header {
+    text-align: center;
+    border-bottom: 3px solid #38464F;
+    height: 100px;
+}
+
+main {
+    text-align: center;
+    height: 535px;
+}
+
+menu {
+    border-top: 3px solid #38464F;
+}
+
